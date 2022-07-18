@@ -1,0 +1,14 @@
+3) 2 4
+4) Compilation Fails
+5) Alpha a = x;
+6) The Project that I worked in this month for creating an app for event management app.
+It is creating the events for the user and managing based on date and time. Filtering the 
+events based on type and dates range. It given an understanding on how the backend data
+stored and fatching through APIs. SignUp and SignIn feature for security.
+The link to the project is https://github.com/mallikharjuna160003/EventManagementApp
+
+7) If you are to start a software company, Naveen Naik and Swaroop are 2 people from my batch I will choose as partners. They are dedicated to work and determined. The approach of problem solving is different than others in
+my batch. They participated in National Level CTFs and Coding Contests. They have good understanding on the IT 
+software development work. They can learn things fast. I collaborated with them in one of the contest like they 
+are awesome guys that I ever seen before. Logic Building , step by step problem solving. They both worked in a 
+startup they know the internal things how will they work. I am sure they are the best match for me.
